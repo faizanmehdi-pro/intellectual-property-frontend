@@ -1,0 +1,10 @@
+{
+  "name": "my-app",
+  "script": "npm",
+  "args": "rstart",
+  "watch": true,
+  "env": {
+    "NODE_ENV": "production",
+    "PORT": 3000
+  }
+}

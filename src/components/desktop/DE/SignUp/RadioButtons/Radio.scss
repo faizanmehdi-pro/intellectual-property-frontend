@@ -1,0 +1,24 @@
+.Radio-container{
+ h2{
+    font-size: 18px;
+ }
+}
+
+.Radio-Options{
+    display: flex;
+    gap: 20px;
+
+.option{
+    display: flex;
+    gap: 5px;
+
+    input{
+        cursor: pointer;
+    }
+    label{
+        color: rgb(35, 40, 85, 0.8);
+        font-size: 16px;
+        font-weight: 500;
+    }
+}
+}
